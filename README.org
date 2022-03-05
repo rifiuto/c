@@ -1,0 +1,4 @@
+* Preface
+This repo is used for my own server to build the server.
+** Linear_Table
+1. xianxing.c :: These code are about all the example and algorithm of the section 2.2 .
